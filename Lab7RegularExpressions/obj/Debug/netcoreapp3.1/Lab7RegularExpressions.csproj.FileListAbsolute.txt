@@ -1,0 +1,13 @@
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.exe
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.deps.json
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.runtimeconfig.json
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.runtimeconfig.dev.json
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.dll
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\netcoreapp3.1\Lab7RegularExpressions.pdb
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.csprojAssemblyReference.cache
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.AssemblyInfo.cs
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.dll
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.pdb
+C:\Users\Zach\source\repos\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\netcoreapp3.1\Lab7RegularExpressions.genruntimeconfig.cache
